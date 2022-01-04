@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @AMANJHA79
+- 👀 I’m interested in ...COMPUTER SCIENCE
+- 🌱 I’m currently learning ...PYTHON
