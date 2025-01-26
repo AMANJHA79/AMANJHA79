@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amanjha79&label=Profile%20views&color=0e75b6&style=flat" alt="amanjha79" /> </p>
 
-- 🔭 I’m currently working on **Linkdin-Clone**
+- 🔭 I’m currently working on **Poll--Gram**
 
 - 🌱 I’m currently learning **Advance Backend (Redis, GraphQl)**
 
-- 👯 I’m looking to collaborate on **Linkdin-Clone**
+- 👯 I’m looking to collaborate on **Poll--Gram**
 
 - 🤝 I’m looking for help with **Frontend**
 
