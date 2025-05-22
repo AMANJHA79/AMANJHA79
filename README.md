@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **Amanjha9808@gmail.com**
 
-- 📄 Know about my experiences [https://shorturl.at/sYTez](https://shorturl.at/sYTez)
+- 📄 Know about my experiences [https://shorturl.at/kbCgq](https://shorturl.at/kbCgq)
 
 - ⚡ Fun fact **I Think I am Funny!!😎😎🦀**
 
